@@ -1,0 +1,132 @@
+#title{
+    background-color:#ff4c68;   
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:3rem;
+    line-height: 1.5;
+    color: white;
+    font-weight: bold;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.btn btn-dark{
+    font-size: 20px;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size:2.5rem;
+    font-family: "Ubuntu";
+}
+.navbar{
+    padding-bottom: 3.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.Download-button{
+    margin: 5% 3% 5% 0;
+}
+.image{
+    transform: rotate(25deg);
+    position:relative;
+}
+#features{
+    padding: 7% 15%;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-box{
+    text-align: center;
+}
+h2{
+    font-family: "montserrat-bold";
+    font-weight: bold;
+    font-size: 32px;
+}
+.centre{
+    color:red;
+    font-size:30px;
+}
+p{
+    font-weight: lighter;
+    color: grey;
+    padding-top:3px;
+}
+#testimonials{
+    text-align: center;
+    padding: 7% 15%;
+    font-family: "ubuntu";
+    font-weight:bolder;
+    background-color: #4c70ff64;
+    color:white;
+    padding-top:10px;
+
+}
+.img{
+    width: 10%;
+    border-radius:100%;
+    margin: 20px;
+}
+#press{
+    padding-bottom: 3%;
+    background-color:#4c70ff64 ;
+}
+.logo{
+    width:24%;
+    padding: 6%;
+}
+.carousel-item{
+    padding: 10% 15%;
+}
+.card-header{
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
+#pricing{
+    text-align: center;
+    padding:100px;
+}
+.pricing-colom{
+    padding: 3% 2%;
+}
+#cta{
+    text-align: center;
+    padding:7% 9%;
+    background-color:#ff4c68;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:slategray;
+    border-top: 30%;
+    bottom:10%;
+}
+h3{
+    color: white;
+    font-size: 3rem;
+    font-weight:"Montserrat Black";
+    font-weight: bold;
+    padding: 2% 8%;
+}
+.Download-button1{
+    margin: 2%
+}
+#footer{
+    text-align: center;
+    font-weight: bold;
+}
+.ftr{
+    color: black;
+    text-align: center;
+    
+}
+.icons{
+    text-align: centre;
+    padding: 2%;
+    
+}
+.spa{
+    padding:6px;
+}
