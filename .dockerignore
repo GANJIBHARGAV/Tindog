@@ -1,0 +1,7 @@
+# Ignore everything by default
+**/__pycache__/
+**/*.pyc
+node_modules
+dist
+build
+.env
